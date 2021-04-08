@@ -1,0 +1,13 @@
+D:\Github\Alexei\logger\release\net5.0\logger.deps.json
+D:\Github\Alexei\logger\release\net5.0\logger.dll
+D:\Github\Alexei\logger\release\net5.0\ref\logger.dll
+D:\Github\Alexei\logger\release\net5.0\logger.pdb
+D:\Github\Alexei\logger\release\net5.0\logger.xml
+D:\Github\Alexei\logger\src\logger\obj\Deploy\net5.0\logger.csprojAssemblyReference.cache
+D:\Github\Alexei\logger\src\logger\obj\Deploy\net5.0\logger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Alexei\logger\src\logger\obj\Deploy\net5.0\logger.AssemblyInfoInputs.cache
+D:\Github\Alexei\logger\src\logger\obj\Deploy\net5.0\logger.AssemblyInfo.cs
+D:\Github\Alexei\logger\src\logger\obj\Deploy\net5.0\logger.csproj.CoreCompileInputs.cache
+D:\Github\Alexei\logger\src\logger\obj\Deploy\net5.0\logger.dll
+D:\Github\Alexei\logger\src\logger\obj\Deploy\net5.0\ref\logger.dll
+D:\Github\Alexei\logger\src\logger\obj\Deploy\net5.0\logger.pdb

@@ -3,11 +3,28 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <Configurations>Debug;Release;Deploy</Configurations>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Alexei</Authors>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <PackageId>simple.event.logger</PackageId>
+    <Product>simple.event.logger</Product>
+    <AssemblyName>logger</AssemblyName>
+    <PackageLicenseExpression></PackageLicenseExpression>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <PackageProjectUrl>https://github.com/Alexei350/logger</PackageProjectUrl>
+    <NeutralLanguage>pt-BR</NeutralLanguage>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Deploy|AnyCPU'">
     <OutputPath>..\..\release</OutputPath>
     <DocumentationFile>..\..\release\logger.xml</DocumentationFile>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\LICENSE">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
